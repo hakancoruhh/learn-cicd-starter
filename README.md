@@ -1,8 +1,8 @@
 # learn-cicd-starter (Notely)
 
-[![CI](https://github.com/hakancoruhh/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)](https://github.com/hakancoruhh/learn-cicd-starter/actions/workflows/ci.yml)
 
-![alt text goes here](IMAGE_URL)
+
+![code coverage badge](https://github.com/hakancoruhh/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
 
 
 
